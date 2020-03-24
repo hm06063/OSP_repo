@@ -1,2 +1,3 @@
 git text
 helllo
+윈도우는 한글도 되지롱 
