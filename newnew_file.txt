@@ -1,4 +1,11 @@
 git text
+<<<<<<< HEAD
 aaaaaaaaaaa
 I'm branch1
+
+=======
+aaaaaaaaaaaa
+
+Hello
+I'm branch2
 
